@@ -1,0 +1,104 @@
+* {
+    padding-top: 80%;
+    margin: auto;
+    padding: .5em;
+}
+
+h2 {
+    color: white;
+}
+
+body {
+    background-image: url(imagenes/buap.jpg);
+    background-position: center;
+
+}
+
+.contenedor__login-register{
+
+
+    top: -100px;
+    margin: auto;
+    text-align: center;
+
+    background: #003b5c;
+    border-radius: 12px;
+    
+    margin: 15%;
+
+    max-width: 4em, 15%;
+    height: auto;
+    
+}
+
+.contenedor1 {
+    margin: auto;
+    width: 80%;
+    height: 80%;
+    justify-content: space-around;
+    min-height: auto;
+
+    max-width: 100%;
+    height: auto;
+
+}
+
+.contenedor2 {
+    justify-content:center;
+    background: white;
+    border-radius: 12px;
+
+    max-width: 4em, 15%;
+    height: auto;
+}
+
+#boton {
+    margin: auto;
+    flex-direction: column;
+
+    background-color: #00b5e2;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+
+    max-width: 100%;
+    height: auto;
+
+}
+
+#boton:hover {
+    background-color:#003b5c;
+    color: white;
+
+}
+
+input {
+    text-align: center;
+    align-items: center;
+    padding: 15px 32px;
+    box-sizing: border-box; 
+    display: inline-block;
+    border-radius: 12px;
+    background-color: #003b5c;
+    color: white;
+    border: none;
+    border-radius: 12px;;
+    
+    max-width: 100%;
+    height: auto;
+}
+
+
+.lobo {
+    padding: auto;
+
+    border-radius: 100px;
+
+    max-width: 100%;
+    height: auto;
+}
+
